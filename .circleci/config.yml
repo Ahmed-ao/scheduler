@@ -28,12 +28,12 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - '36:1f:23:c0:ce:06:e9:83:e7:0f:f1:32:2f:c4:e0:c2'
+            - '23:68:8f:60:b1:08:76:8b:54:3d:fe:51:da:38:8b:3f'
       - checkout
       - run:
           name: Push Master to Production
           command: |
-            git push https://github.com/Ahmed-ao/scheduler-front.git master:production
+            git push https://github.com/Ahmed-ao/scheduler.git main:production
 
 workflows:
   version: 2
