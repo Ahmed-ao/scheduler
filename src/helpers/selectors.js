@@ -51,3 +51,8 @@ const getInterviewersForDay = (state, day) => {
 
     return interviewers.map((id) => state.interviewers[id]);
 }
+export {
+    getAppointmentsForDay,
+    getInterview,
+    getInterviewersForDay
+}
