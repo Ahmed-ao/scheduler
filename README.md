@@ -14,3 +14,10 @@ Any feedback is welcome. As long as it's respectful, I’m here to grow. And for
 
 Thanks for taking the time to read through the post, and I hope to see you in my next post.  
 ![main interface](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-48-53.png)
+![Adding an appointment](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-49-13.png)
+![UI after an appointment](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-49-23.png)
+![Edit interface](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-50-13.png)
+![Delete interface](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-54-33.png)
+![main interface](https://github.com/Ahmed-ao/scheduler/blob/main/docs/Screenshot%20from%202022-04-30%2000-48-53.png)
+
+
